@@ -1,17 +1,16 @@
-title: Hello, world! I'm David Freeman
+title: 关注许志永、丁家喜
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  中国政治活动人士丁家喜与许志永被以涉嫌颠覆国家政权罪分别被判刑12年和14年，他们的朋友们将继续关注两人在狱中的不公正羁押和人权剥夺情况。
+Chinese political activists Ding Jiaxi and Xu Zhiyong were sentenced to 12 and 14 years in prison respectively on suspicion of subverting state power. Their friends will continue to pay attention to the two's unjust detention and deprivation of human rights in prison.
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://free-xu-ding.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: Free Xu Ding # add your name
+#author-img:  # add your photo
+#about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
@@ -19,10 +18,10 @@ social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+#discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+#analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown
