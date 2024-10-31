@@ -1,7 +1,7 @@
 title: 关注许志永、丁家喜
 description: Chinese political activists Ding Jiaxi and Xu Zhiyong were sentenced to 12 and 14 years in prison respectively on suspicion of subverting state power. Their friends will continue to pay attention to the two's unjust detention and deprivation of human rights in prison.
 permalink: ':title/'
-baseurl: "/updates" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://free-xu-ding.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
