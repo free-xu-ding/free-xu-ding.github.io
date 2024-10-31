@@ -8,12 +8,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Free Xu Ding # add your name
 #author-img:  # add your photo
-#about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+about-author: 遭受不公正审判的丁家喜与许志永分别被羁押于江北监狱和日照监狱，两人在监狱中仍遭受虐待、基本人权被剥夺。与此同时，12.26大抓捕中，张忠顺已被秘密开庭尚未宣判；常玮平和李翘楚于获释后仍处于剥权期、被严密监控、释而不放的状态。我们将时刻关注他们的状况，为大、小监狱内的人发声。 Ding Jiaxi and Xu Zhiyong, who suffered unfair trials, are detained in Jiangbei Prison and Rizhao Prison respectively. They are still being abused and deprived of their basic human rights in prison. Meanwhile, during the 12.26 mass arrest, Zhang Zhongshun has been secretly tried but has not yet been sentenced; Chang Weiping and Li Qiaochu are still in the period of deprivation of rights, under strict surveillance, and released but not released after their release. We will keep an eye on their conditions and speak out for those in prisons, big and small.
+social-twitter: FreeXuDing # add your Twitter handle
+#social-facebook: # add your Facebook handle
+#social-github: artemsheludko # add your Github handle
+#social-linkedin: # add your Linkedin handle
+#social-email: # add your Email address
 
 # Disqus
 #discus-identifier: mr-brown # add your discus identifier
