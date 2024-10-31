@@ -1,7 +1,6 @@
 title: 关注许志永、丁家喜
 description: > # this means to ignore newlines until "baseurl:"
-  中国政治活动人士丁家喜与许志永被以涉嫌颠覆国家政权罪分别被判刑12年和14年，他们的朋友们将继续关注两人在狱中的不公正羁押和人权剥夺情况。
-Chinese political activists Ding Jiaxi and Xu Zhiyong were sentenced to 12 and 14 years in prison respectively on suspicion of subverting state power. Their friends will continue to pay attention to the two's unjust detention and deprivation of human rights in prison.
+"Chinese political activists Ding Jiaxi and Xu Zhiyong were sentenced to 12 and 14 years in prison respectively on suspicion of subverting state power. Their friends will continue to pay attention to the two's unjust detention and deprivation of human rights in prison."
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://free-xu-ding.github.io" # the base hostname & protocol for your site, e.g. http://example.com
