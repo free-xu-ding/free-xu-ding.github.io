@@ -3,12 +3,12 @@ layout: post
 title: 首篇
 date: 2024-10-31
 description: # Add post description (optional)
-img:  # Add image post (optional)
-fig-caption: 
+img:  poster1.jpeg
+fig-caption: 请释放许志勇、丁家喜
 tags: [Updates]
 ---
 
-## 关于我们 ｜ About us
+## 关于我们 ｜ ABOUT US
 
 遭受不公正审判的丁家喜与许志永分别被羁押于江北监狱和日照监狱，两人在监狱中仍遭受虐待、基本人权被剥夺。与此同时，12.26大抓捕中，张忠顺已被秘密开庭尚未宣判；常玮平和李翘楚于获释后仍处于剥权期、被严密监控、释而不放的状态。我们将时刻关注他们的状况，为大、小监狱内的人发声。
 
