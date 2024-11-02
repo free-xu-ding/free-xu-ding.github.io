@@ -3,7 +3,7 @@ layout: post
 title: 首篇
 date: 2024-10-31
 description: # Add post description (optional)
-img:  poster1.jpeg
+img:  poster1.jpg
 fig-caption: 请释放许志勇、丁家喜
 tags: [Updates]
 ---
