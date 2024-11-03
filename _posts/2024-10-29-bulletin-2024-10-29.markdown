@@ -3,7 +3,7 @@ layout: post
 title: 许志永绝食抗争的信息通报（2024.10.29）
 date: 2024-10-29
 description: # Add post description (optional)
-img:  poster1.jpg
+img:  oct29.jpeg
 fig-caption: 请释放许志勇、丁家喜
 ---
 
