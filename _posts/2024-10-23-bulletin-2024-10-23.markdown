@@ -2,6 +2,7 @@
 layout: post
 title: 10月23日信息通报：紧急关注许志永绝食整20天
 date: 2024-10-23
+excerpt: 为了抗议山东省鲁南监狱非法剥夺他和未婚妻李翘楚的合法通信权，许志永已经从10月4日开始绝食抗争至10月23日，持续整20天，体重在短时间内迅速下降十几斤，健康状况迅速恶化。
 description: # Add post description (optional)
 img:  oct23.jpeg
 ---
