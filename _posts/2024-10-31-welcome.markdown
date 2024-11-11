@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 首篇
-date: 2024-10-31
+date: 2024-10-20
 description: # Add post description (optional)
-img:  poster1.jpg
+img:  welcome.jpeg
 ---
 
 ## 关于我们 ｜ ABOUT US
