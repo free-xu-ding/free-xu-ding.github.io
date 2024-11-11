@@ -2,6 +2,7 @@
 layout: post
 title: 许志永绝食抗争的信息通报（2024.10.24—10.28）
 date: 2024-10-28
+excerpt: 关注组号召外界的朋友们能够持续用一些微小的行动向监狱方表达对许志永的关注，敦促他们保障其合法权利和合法诉求。
 description: # Add post description (optional)
 img:  oct28.jpeg
 ---
