@@ -2,6 +2,7 @@
 layout: post
 title: 许志永绝食抗争的信息通报（2024.10.29）
 date: 2024-10-29
+excerpt: 29日上午许志永的两位家属去会见了他，但会见结束之后就返回家了；萧律师没有从家属那里获取到有效信息，家属表示不愿透露就急匆匆回家了。李翘楚当天未能联系到志永的家属无法获取有关信息。
 description: # Add post description (optional)
 img:  oct29.jpeg
 ---
