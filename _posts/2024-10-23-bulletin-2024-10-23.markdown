@@ -4,8 +4,6 @@ title: 10月23日信息通报：紧急关注许志永绝食整20天
 date: 2024-10-23
 description: # Add post description (optional)
 img:  oct23.jpeg
-fig-caption: 请释放许志勇、丁家喜
-tags: [Updates]
 ---
 
 **紧急关注许志永绝食整20天！**
