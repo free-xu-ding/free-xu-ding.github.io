@@ -2,6 +2,7 @@
 layout: post
 title: 首篇
 date: 2024-10-20
+excerpt: 我们是丁家喜和许志永的朋友或者关注者，旨在通过在海外的平台为不能说话者发声，支持为他们奔波的亲友和律师。我们也希望这是一个行动协作的平台，以具体的人和事将关注者联结起来。
 description: # Add post description (optional)
 img:  welcome.jpeg
 ---
