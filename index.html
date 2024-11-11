@@ -9,8 +9,8 @@ layout: main
   {% endif %}
   <div class="post-content">
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-     <p></p>{{ post.content | markdownify | strip_html | truncatewords: 50 }}</p>
-    <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+    <p>{{ post.excerpt | strip_html }}</p>
+    <span class="post-date">{{post.date | date: '%Y, %b %d'}}</span>
   </div>
 </article>
 {% endfor %}
